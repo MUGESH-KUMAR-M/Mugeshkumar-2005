@@ -8,13 +8,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://api.iconify.design/ph/user-bold.svg?color=%23c0caf5" width="22" align="center"/> About Me
 
 I am a passionate software developer and lifelong learner specializing in **Unity AR/VR**, **React web development**, and **cross-platform mobile apps**. My focus is on crafting immersive user experiences and visually stunning, high-performance applications that bring creative ideas to life.
 
 ---
 
-### 🛠️ Technologies & Skills
+### <img src="https://api.iconify.design/grommet-icons/configure.svg?color=%23c0caf5" width="22" align="center"/> Technologies & Skills
 
 <div align="center">
   
@@ -54,16 +54,12 @@ I am a passionate software developer and lifelong learner specializing in **Unit
 
 ---
 
-### 📊 GitHub Stats & Activity
+### <img src="https://api.iconify.design/icon-park-outline/data-sheet.svg?color=%23c0caf5" width="22" align="center"/> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mugeshkumar-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugeshkumar-2005&theme=tokyonight&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugeshkumar-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  <br>
-  <img src="https://github-readme-trophy.vercel.app/?username=Mugeshkumar-2005&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/Mugeshkumar-2005/Mugeshkumar-2005/output/snake.svg" alt="Snake animation"/>
 </div>
 
 ---
@@ -71,14 +67,14 @@ I am a passionate software developer and lifelong learner specializing in **Unit
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      ### 🚀 What I'm Working On
+      ### <img src="https://api.iconify.design/mdi/target-arrow.svg?color=%23c0caf5" width="22" align="center"/> What I'm Working On
       - Cutting-edge AR/VR projects using Unity and AR Foundation
       - Responsive React web apps with interactive UI
       - Mobile apps with cloud integration
       - Integrating AI/ML into real-world projects
     </td>
     <td valign="top" width="50%">
-      ### 🌱 Currently Learning
+      ### <img src="https://api.iconify.design/carbon/brain.svg?color=%23c0caf5" width="22" align="center"/> Currently Learning
       - Advanced Unity game mechanics & networking
       - Progressive Web App (PWA) deployment
       - Deepening expertise in Flutter & React Native
@@ -89,7 +85,7 @@ I am a passionate software developer and lifelong learner specializing in **Unit
 
 ---
 
-### 🤝 Let's Collaborate On
+### <img src="https://api.iconify.design/mdi/handshake-outline.svg?color=%23c0caf5" width="22" align="center"/> Let's Collaborate On
 
 - Innovative AR/VR experiences and immersive games
 - Open-source projects (front-end and mobile)
@@ -98,7 +94,7 @@ I am a passionate software developer and lifelong learner specializing in **Unit
 
 ---
 
-### 📬 Connect with Me
+### <img src="https://api.iconify.design/basil/envelope-outline.svg?color=%23c0caf5" width="22" align="center"/> Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mugesh-kumar-m-5b5591290/" target="_blank">
