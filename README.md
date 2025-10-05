@@ -114,5 +114,5 @@ I am a passionate software developer and lifelong learner specializing in **Unit
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Mugeshkumar-2005/count.svg" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=Mugeshkumar-2005&style=for-the-badge&color=38BDF8" alt="Profile visitor count"/>
 </div>
