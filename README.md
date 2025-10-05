@@ -47,7 +47,6 @@ I am a passionate software developer and lifelong learner specializing in **Unit
 <h4>AI / ML</h4>
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 </p>
   
 </div>
@@ -57,9 +56,9 @@ I am a passionate software developer and lifelong learner specializing in **Unit
 ### <img src="https://api.iconify.design/icon-park-outline/data-sheet.svg?color=%23c0caf5" width="22" align="center"/> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mugeshkumar-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugeshkumar-2005&theme=tokyonight&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugeshkumar-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mugeshkumar-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=c0caf5&ring_color=38BDF8&bg_color=1f1d2e&line_height=20&disable_animations=false&hide_title=false&border_radius=10&card_width=490&custom_title=My%20Stats&animation=true" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugeshkumar-2005&theme=tokyonight&hide_border=false&ring_color=38BDF8&background=1f1d2e&border=1f1d2e&animation=true" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugeshkumar-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=38BDF8&icon_color=38BDF8&text_color=c0caf5&bg_color=1f1d2e&border_radius=10&card_width=490&animation=true" alt="Top Languages"/>
 </div>
 
 ---
