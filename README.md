@@ -24,27 +24,28 @@
 
 <br/>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 30px;">
 
-I am a passionate software developer and lifelong learner specializing in **Unity AR/VR development**, **React web applications**, and **cross-platform mobile development**. My mission is to craft immersive user experiences and visually stunning, high-performance applications that transform creative visions into digital reality.
+  <!-- Left Side - Text -->
+  <div style="flex: 1; min-width: 300px; text-align: left; max-width: 600px;">
 
-With a strong foundation in both frontend and backend technologies, I bridge the gap between innovative design and robust functionality. I thrive on challenges that push the boundaries of what's possible in interactive media, from augmented reality experiences to seamless web applications.
+  I am a passionate software developer and lifelong learner specializing in **Unity AR/VR development**, **React web applications**, and **cross-platform mobile development**. My mission is to craft immersive user experiences and visually stunning, high-performance applications that transform creative visions into digital reality.
 
-My approach combines technical excellence with creative problem-solving, ensuring every project not only meets but exceeds user expectations through meticulous attention to detail and cutting-edge development practices.
+  <br/><br/>
 
-</td>
-<td width="50%" valign="top" align="center">
+  With a strong foundation in both frontend and backend technologies, I bridge the gap between innovative design and robust functionality. I thrive on challenges that push the boundaries of what's possible in interactive media, from augmented reality experiences to seamless web applications.
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+  <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  My approach combines technical excellence with creative problem-solving, ensuring every project not only meets but exceeds user expectations through meticulous attention to detail and cutting-edge development practices.
 
-</td>
-</tr>
-</table>
+  </div>
+
+  <!-- Right Side - GIF -->
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" />
+  </div>
+
 </div>
 
 ---
