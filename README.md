@@ -1,8 +1,8 @@
 <p align="center">
 
-### Mugesh Kumar
+### Hi there, I'm Mugesh Kumar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-A passionate software developer and lifelong learner specializing in **Unity AR/VR development**, **React web development**, and **cross-platform mobile app creation**. Focused on crafting immersive experiences and visually stunning applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=A+passionate+software+developer;Specializing+in+Unity+AR%2FVR+development;React+web+%26+cross-platform+mobile+apps;Crafting+immersive+%26+stunning+experiences" alt="Typing SVG" />
 
 ---
 
@@ -33,20 +33,12 @@ A passionate software developer and lifelong learner specializing in **Unity AR/
 
 ---
 
-<details>
-  <summary>
-    <h2>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mugeshkumar-2005&theme=tokyonight&hide_border=false" width="32"/>
-      My GitHub Stats
-    </h2>
-  </summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mugeshkumar-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugeshkumar-2005&theme=tokyonight&hide_border=false"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugeshkumar-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mugeshkumar-2005&theme=tokyo-night"/>
-  </div>
-</details>
+<h2 align="center">My GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mugeshkumar-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugeshkumar-2005&theme=tokyonight&hide_border=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugeshkumar-2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
 
 ---
 
